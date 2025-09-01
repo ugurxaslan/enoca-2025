@@ -19,8 +19,8 @@ Tüm tablolar, ortak alanları barındıran **BaseEntity** sınıfından miras a
    ```
 4. Maven ile derleyin ve çalıştırın:
    ```bash
-   ./mvn install
-   ./mvn spring-boot:run
+   ./mvnw install
+   ./mvnw spring-boot:run
    ```
 5. Swagger UI üzerinden API dokümantasyonuna erişin:  
    [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
