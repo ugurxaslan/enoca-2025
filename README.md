@@ -35,7 +35,7 @@ Tüm tablolar, ortak alanları barındıran **BaseEntity** sınıfından miras a
 - **Order**: Sipariş bilgilerini saklar. Sipariş sırasında ürünlerin anlık fiyatı **OrderItem** tablosunda tutulur. Ürün fiyatı güncellense bile müşteri geçmiş siparişlerinde o anki fiyatı görebilir.
 - **Product**: Ürün bilgilerini ve stok miktarını içerir. Stok bitmişse ürün sepete eklenemez ve sipariş verilemez.
 
-- [ER Diagram Linki](https://miro.com/welcomeonboard/MWJlekVzdFRESDJzY0JFQ3F0SzF6dlZCbFVOenQ1T0k2QWd3cjlUWUQ3bDUzQTk2UTJDVmZFY1FUdHZ3SzFqdytLd0tYYlRmKzZPVDJicWM0NWdHTit6ZmFVeHpMUmRZcGJ2Vm9iNVRsMEpuRG5DYlhkMk81TXU2TnpjZ2pzYUZ0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=217030894572)
+- [ER Diagram Linki](https://miro.com/app/board/uXjVJTBMCUg=/?share_link_id=789464132536)
 
 ---
 
